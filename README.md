@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jun Tizon =================================================================================================================================  New Grad --------  Bachelors in Computer Science at UCDenver Spring '23  * 🌍  I'm based in Aurora, CO * ✉️  You can contact me at [juntizon724@gmail.com](mailto:juntizon724@gmail.com) * 🧠  I'm learning about how to create a trading bot using Python
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jun Tizon =================================================================================================================================  
+New Grad
+--------  
+Bachelors in Computer Science at UCDenver Spring '23  
+* 🌍  I'm based in Aurora, CO
+* ✉️  You can contact me at [juntizon724@gmail.com](mailto:juntizon724@gmail.com)
+* 🧠  I'm learning about how to create a trading bot using Python
 
 ### Skills  
 
